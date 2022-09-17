@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/zufXZzsclDpUs/Ep8fGw0djS7CkUJgMFWk+J9IYrupIy6SihlTjAonAgz3YmDNM4JMDhgPGi1Jn+Ux9Nug4w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\facun\\OneDrive\\Escritorio\\Taller 2\\Tp2\\tl2-tp2-2022-Facas27\\LogTest\\LogTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facun\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
